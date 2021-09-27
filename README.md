@@ -1,2 +1,2 @@
-# Request Library
--Practiced using the data provided by http://api.open-notify.org/iss-now.json
+# Request Library practice
+-using the api provided by open notify http://api.open-notify.org/iss-now.json to gather ISS location
